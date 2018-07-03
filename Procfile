@@ -1,0 +1,1 @@
+web: gunicorn renewable_energy_story_board:server
